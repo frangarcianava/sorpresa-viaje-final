@@ -53,7 +53,7 @@ export default function Exito() {
             onClick={downloadImage}
             className="bg-pink-500 text-white px-6 py-3 rounded-xl hover:bg-pink-600 transition"
           >
-            Descargar sorpresa ✈️💖
+            Descargar sorpresa 💖
           </button>
         </div>
       </div>
